@@ -1,4 +1,5 @@
 ### Hi there 👋
+![](https://img.shields.io/badge/<Language>-<Python>-informational?style=flat&logo=<Python>&logoColor=white&color=2bbc8a)
 
 <!--
 **theblueeye-dev/theblueeye-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
